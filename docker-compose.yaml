@@ -20,4 +20,4 @@ services:
       - 1234:8000
     depends_on:
       - db
-  
+

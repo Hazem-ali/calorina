@@ -7,3 +7,4 @@ class ItemSerializer(serializers.ModelSerializer):
         model = Item
         fields ='__all__'
         
+        
